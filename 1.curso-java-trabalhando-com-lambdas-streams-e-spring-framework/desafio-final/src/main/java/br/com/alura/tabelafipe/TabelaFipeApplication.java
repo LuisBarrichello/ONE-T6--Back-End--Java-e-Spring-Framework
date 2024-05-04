@@ -1,20 +1,21 @@
-package br.com.alura.screenmatch;
+package br.com.alura.tabelafipe;
 
-import br.com.alura.screenmatch.principal.Principal;
+
+import br.com.alura.tabelafipe.main.Main;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ScreenmatchApplication implements CommandLineRunner {
+public class TabelaFipeApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ScreenmatchApplication.class, args);
+		SpringApplication.run(TabelaFipeApplication.class, args);
 	}
 
 	@Override
 	public void run(String... args) throws Exception {
-		Principal principal = new Principal();
-		principal.exibeMenu();
+		Main main = new Main();
+		main.showMenu();
 	}
 }
