@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67ca4fe5-f193-470c-acd5-74a1dbf8e729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/screenmatch1/src/main/java/br/com/alura/screenmatch/ScreenmatchApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch1/src/main/java/br/com/alura/screenmatch/model/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch1/src/main/java/br/com/alura/screenmatch/model/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch1/src/main/java/br/com/alura/screenmatch/repository/SerieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch1/src/main/java/br/com/alura/screenmatch/service/ConsultaChatGPT.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2gKYc9PKzQxd8BRMJhw5yKo99eG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Luís Gabriel/Projects/ONE - T6 - Formação Java e Spring Framework/2.curso-java-persistencia-de-dados-e consultas-com-Spring-Data-JPA"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67ca4fe5-f193-470c-acd5-74a1dbf8e729" name="Changes" comment="" />
+      <created>1715447812519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715447812519</updated>
+    </task>
+    <servers />
+  </component>
+</project>
